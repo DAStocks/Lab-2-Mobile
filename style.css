@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+  text-align:center;
+}
+
+#map {
+  width: auto;
+  height: 98vh;
+}
